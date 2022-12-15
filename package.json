@@ -1,6 +1,10 @@
 {
   "type": "module",
   "dependencies": {
-    "mocha": "^10.2.0"
+    "mocha": "^10.2.0",
+    "is-port-reachable": "^4.0.0"
+  },
+  "scripts": {
+    "test": "mocha qa"
   }
 }
