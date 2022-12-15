@@ -2,6 +2,7 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "es-main": "^1.2.0",
     "is-port-reachable": "^4.0.0",
     "mocha": "^10.2.0"
   },
